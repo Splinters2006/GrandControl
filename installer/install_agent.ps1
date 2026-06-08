@@ -8,7 +8,7 @@
 $ErrorActionPreference = "Stop"
 
 # ── CONFIGURE ONCE BEFORE SENDING ────────────────────────────────────────────
-$RelayHost   = "94.110.194.197"
+$RelayHost = "94.110.194.197"
 $RelayPort   = "8443"
 
 # GitHub repo for fetching the latest GrandControlAgent.exe release.
